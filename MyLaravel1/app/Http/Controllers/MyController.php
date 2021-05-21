@@ -52,6 +52,6 @@ class OOPController extends Controller
         //stampa delle istanze per mezzo di dd()
         dd($movie1, $movie2, $movie3);
         // dd($movieString);
-        return view('pages.oopExercise');
+        return view('pages.movie');
     }
 }
