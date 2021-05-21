@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    header {
+         background-color: orange;
+         height: 10vh;
+    }
+
+    main {
+         background-color: black;
+         height: 80vh;
+    }
+
+    footer {
+         background-color: orangered;
+         height: 10vh;
+    }
+}
