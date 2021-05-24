@@ -28,7 +28,7 @@ class Movie
     }
 }
 
-class OOPController extends Controller
+class MyController extends Controller
 {
     public function movies()
     {
